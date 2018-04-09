@@ -1,4 +1,5 @@
 # Copy Layout Challenge
+In this challenge participants have to select any popular application like Whatsapp, Gmail, Instagram and try to recreate exact replica of the layout. They can add backend code if they want but it's not neccessary. Just cloning would sufficient. 
 
 ![goo](https://user-images.githubusercontent.com/23660137/38502904-4f3f38bc-3c2e-11e8-83bd-e2ef815da9ce.PNG)
 
@@ -24,6 +25,7 @@ Below given table contains the Name of the scholars and their project which they
 | Sreemoyee Chowdhury  | sreemoyeec172  | [Github Repo](https://github.com/haikubabe/Inbox-by-Gmail-Copy-Layout)  |
 |  Nishank Sanjeev Samant | Nishanks  | [Github Repo](https://github.com/nishank95/Exchange-a-Gram)  |
 |  Debajyoti Basak | Debajyoti Basak  |  [Github Repo](https://github.com/debo1994/PhonePeClone) |
+Still counting...............
 
 #### A big Thanks to everyone for their contribution in Copy Layout Challenge.
 
