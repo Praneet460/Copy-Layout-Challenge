@@ -6,7 +6,7 @@
 <p>Below given table contains the Name of the scholars and their project which they build up during <b>Copy Layout Challenge</b>.</p>
 
 <h3>List Of Projects</b>
-<table>
+<table style="width=100%">
   <tr>
     <th>Name</th>
     <th>Slack Profile</th>
