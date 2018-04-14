@@ -19,13 +19,21 @@ Below given table contains the Name of the scholars and their project which they
 | Yugansh Tyagi  | YuganshT79  | [Github Repo](https://github.com/YuganshT79/Whatsapp-Copy-Layout)  |
 | Yasin Munshi  | Yasin  | [Github Repo](https://github.com/Yasin21/YoutubeCopy)  |
 | Ashish Kumar  | Ashish Kumar  | [Github Repo](https://github.com/ashishkumar160/InstagramClone)  |
-| Pramod Bharti  |  pramod.bharti |  [Github Repo](https://github.com/pramodbharti/TelegramXClone-db) |
+| Pramod Bharti  |  pramod.bharti |  [Github Repo](https://git |hub.com/pramodbharti/TelegramXClone-db) |Animesh Roy | [Github Repo](https://github.com/animeshroydev/GooglePlusHomeLayoutClone) |
+| Pawan Kumar Sharma | Pawan Khandal | [Github Repo](https://github.com/pawankhandal52/UdacityLayoutChallengeYourStoryClone) |
 | Tavish Jain  |  Tavish Jain |  [Github Repo](https://github.com/tavishjain/GmailCopyLayoutChallenge) |
 |  Vansh Badkul | Vansh  | [Github Repo](https://github.com/vansh1sh/CopyLayoutChallenge)  |
 | Sreemoyee Chowdhury  | sreemoyeec172  | [Github Repo](https://github.com/haikubabe/Inbox-by-Gmail-Copy-Layout)  |
 |  Nishank Sanjeev Samant | Nishanks  | [Github Repo](https://github.com/nishank95/Exchange-a-Gram)  |
 |  Debajyoti Basak | Debajyoti Basak  |  [Github Repo](https://github.com/debo1994/PhonePeClone) |
-Still counting...............
+| Prudhvi Reddy | prudhvi | [Github Repo](https://github.com/prudhvir3ddy/SlackClone) |
+| Aaswin | Aaswin | [Github Repo](https://github.com/Aaswin1996/HomeActivity) |
+| Bhavik Makwana | Bhavik | [Github Repo](https://github.com/ibhavikmakwana/UdacityAppClone) |
+| PratyushaThumiki | Pratyusha | [Github Repo](https://github.com/PratyushaThumiki/GmailClone) |
+| Priyanka Jain | Priyanka | [Github Repo](https://github.com/Priya997/Telegram_app_clone) |
+| Animesh Roy | Animesh Roy | [Github Repo](https://github.com/animeshroydev/GooglePlusHomeLayoutClone) |
+| Pawan Kumar Sharma | Pawan Khandal | [Github Repo](https://github.com/pawankhandal52/UdacityLayoutChallengeYourStoryClone) |
+still counting....
 
 #### A big Thanks to everyone for their contribution in Copy Layout Challenge.
 
