@@ -32,6 +32,9 @@ Below given table contains the Name of the scholars and their project which they
 | Priyanka Jain | Priyanka | [Github Repo](https://github.com/Priya997/Telegram_app_clone) | Telegram |
 | Animesh Roy | Animesh Roy | [Github Repo](https://github.com/animeshroydev/GooglePlusHomeLayoutClone) | Google+ |
 | Pawan Kumar Sharma | Pawan Khandal | [Github Repo](https://github.com/pawankhandal52/UdacityLayoutChallengeYourStoryClone) | Your Story |
+| Pushpal Roy | Pushpal | [Github Repo](https://github.com/pushpalroy/GooglePlayCloned) | Google Play Store |
+| Rondaul | Ron | [Github Repo](https://github.com/Rondaul/GmailCone) | Gmail |
+| Jyothish Johnson | Jyothish Johnson | [Github Repo](https://github.com/JyothishJohnson/Gmail_CLONE) | Gmail |
 still counting....
 
 #### A big Thanks to everyone for their contribution in Copy Layout Challenge.
